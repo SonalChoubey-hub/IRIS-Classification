@@ -8,6 +8,7 @@ Sepal Width
 Petal Length
 Petal Width
 By analyzing these attributes, the model aims to automate species identification—offering impactful applications in botany, horticulture, and ecological research.
+
 🎯 Objective
 To design and implement a machine learning model capable of classifying iris species accurately based on their morphological features. The goal is to streamline the identification process using data-driven insights.
 
@@ -26,6 +27,7 @@ Sl. No.	Model Variant	Recall (Train)	Recall (Test)
 2	Random Forest (Tuned)	97.14%	97.78%
 3	Naive Bayes	94.28%	97.78%
 4	Naive Bayes (Tuned)	94.28%	97.78%
+
 📌 Final Model Chosen: Tuned Random Forest due to its superior balance of accuracy, performance, and generalization.
 
 ✅ Conclusion
