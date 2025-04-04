@@ -3,6 +3,7 @@ Oasis Infobyte Internship Project
 Author: Sonal Choubey
 # Project Overview
 The Iris Flower Classification project centers on leveraging machine learning to classify iris flowers into three distinct species: Iris-setosa, Iris-versicolor, and Iris-virginica. These species can be identified based on four key physical features:
+https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png
 Sepal Length
 Sepal Width
 Petal Length
